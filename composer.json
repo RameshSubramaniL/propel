@@ -1,0 +1,17 @@
+{
+    "name": "ramesh/propel",
+    "autoload": {
+        "psr-4": {
+            "Ramesh\\Propel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramesh",
+            "email": "ramr2170@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    }
+}
